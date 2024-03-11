@@ -45,6 +45,7 @@
 						<objectStoreV2>true</objectStoreV2>
 						<properties>
 							<http.port>8081</http.port>
+							<client_id>hssjkkdkbkj5895o</client_id>
 						</properties>
 					</cloudHubDeployment>
 				</configuration>
